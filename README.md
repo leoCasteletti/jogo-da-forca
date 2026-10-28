@@ -1,6 +1,6 @@
 # Jogo da Forca em C
 
-Jogo da forca no terminal, feito no curso técnico do SENAI Votuporanga.
+Jogo da forca no terminal, feito no curso técnico do SENAI.
 
 - Palavra sorteada de um arquivo (`palavras.txt`)
 - 5 erros e o jogador é enforcado
